@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+.barra ul ol{
+	list-style: none;
+}
+.barra li a{
+	color: white;
+	text-decoration: none;
+}
+.barra > li {
+	float: left;
+}
